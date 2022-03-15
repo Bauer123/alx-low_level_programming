@@ -1,10 +1,14 @@
 #include "main.h"
-/**
- * main -  prints _purtchar, followed by a new line
- * Return: Always 0 (Success)
- */
-int main(void)
 
+/**
+ * main - prints Putchar
+ *
+ * Description: prints _putchar
+ *
+ * Return: 0 (Success)
+ */
+
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
